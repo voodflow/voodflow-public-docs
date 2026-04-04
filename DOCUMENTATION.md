@@ -20,6 +20,7 @@ Suggested starting points:
 
 ---
 
-## Support
+## Community & support
 
-- Issues and feedback: [voodflow/voodflow](https://github.com/voodflow/voodflow) on GitHub (see repository links for support channels).
+- **Discord:** [https://discord.gg/rJtkVn9X](https://discord.gg/rJtkVn9X)
+- **GitHub (bugs, feature requests, feedback):** [voodflow/voodflow-support](https://github.com/voodflow/voodflow-support) — public issue tracker; search existing issues before opening a new one. Do not post secrets in issues.
