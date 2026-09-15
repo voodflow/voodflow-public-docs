@@ -22,5 +22,5 @@ Suggested starting points:
 
 ## Community & support
 
-- **Discord:** [https://discord.gg/rJtkVn9X](https://discord.gg/rJtkVn9X)
+- **Discord:** [https://discord.gg/Sth5NAcqt](https://discord.gg/Sth5NAcqt)
 - **GitHub (bugs, feature requests, feedback):** [voodflow/voodflow-support](https://github.com/voodflow/voodflow-support) — public issue tracker; search existing issues before opening a new one. Do not post secrets in issues.
