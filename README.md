@@ -23,5 +23,7 @@ Full documentation: [https://docs.voodflow.com](https://docs.voodflow.com)
 | voodflow-ai-weaver (`0.1.2`) | [`voodflow-ai-weaver/`](./voodflow-ai-weaver/) |
 | voodflow-oem (`0.1.1`) | [`voodflow-oem/`](./voodflow-oem/) |
 | voodflow-whitelabel (`0.1.1`) | [`voodflow-whitelabel/`](./voodflow-whitelabel/) |
+| vmedia (`0.2.11`) | [`vmedia/`](./vmedia/) |
+| vcookiebar (`0.2.1`) | [`vcookiebar/`](./vcookiebar/) |
 
 Each folder contains `README.md` and optional `images/` assets with paths rewritten for this repository.
