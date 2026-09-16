@@ -2,7 +2,7 @@
 
 > Public README mirror for Filament / marketing links. Canonical product docs: [docs.voodflow.com](https://docs.voodflow.com). Package source remains private/licensed.
 
-<img class="filament-hidden" src="images/promo.png" alt="VoodForms — Filament Forms Builder by VoodFlow" />
+<img class="filament-hidden" src="https://raw.githubusercontent.com/voodflow/voodflow-public-docs/main/vforms/images/promo.png" alt="VoodForms — Filament Forms Builder by VoodFlow" />
 
 FilamentPHP 5 plugin for **managed forms**: schema builder, API-driven fields, mid-form gates, uploads, notifications, analytics, public runtime, and optional companions.
 

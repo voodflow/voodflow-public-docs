@@ -2,7 +2,7 @@
 
 > Public README mirror for Filament / marketing links. Canonical product docs: [docs.voodflow.com](https://docs.voodflow.com). Package source remains private/licensed.
 
-<img class="filament-hidden" src="images/promo.png" alt="VoodDocs — Filament Docs Engine by VoodFlow" />
+<img class="filament-hidden" src="https://raw.githubusercontent.com/voodflow/voodflow-public-docs/main/vdocs/images/promo.png" alt="VoodDocs — Filament Docs Engine by VoodFlow" />
 
 **Version 0.0.16** · **Paid — source-available (not Open Source)**
 

@@ -2,7 +2,7 @@
 
 > Public README mirror for Filament / marketing links. Canonical product docs: [docs.voodflow.com](https://docs.voodflow.com). Package source remains private/licensed.
 
-<img class="filament-hidden" src="images/promo.png" alt="VoodFlow — Filament Workflow Automation by VoodFlow" />
+<img class="filament-hidden" src="https://raw.githubusercontent.com/voodflow/voodflow-public-docs/main/voodflow/images/promo.png" alt="VoodFlow — Filament Workflow Automation by VoodFlow" />
 
 **Visual workflow automation for [Filament](https://filamentphp.com/) (Laravel)**
 
